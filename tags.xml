@@ -10,7 +10,7 @@
     <tag>round</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard" checksum="157dcef48665ab465439cfaf10d6feeb">
+  <resource identifier="gimp-brush-clipboard" checksum="0f573d9d84c55b2c649919a8eb1b2584">
   </resource>
 
   <resource identifier="${gimp_dir}/brushes/Arrows/sketchy6.gbr" checksum="7c65f2557475861c6613a26d0387812d">
@@ -304,7 +304,7 @@
   <resource identifier="${gimp_data_dir}/dynamics/Velocity-Tapering.gdyn" checksum="(null)">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
+  <resource identifier="gimp-pattern-clipboard" checksum="d3d4010f5ed374d6b0fe9a7fc02ba13f">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
