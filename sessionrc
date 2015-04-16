@@ -70,7 +70,7 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
     (position 1920 0)
-    (size 1918 1151))
+    (size 1918 1150))
 (session-info "toplevel"
     (factory-entry "gimp-rotate-tool-dialog")
     (position 871 727))
