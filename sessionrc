@@ -11,7 +11,7 @@
     (size 620 200))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 0 90)
+    (position 0 0)
     (size 1920 1176)
     (open-on-exit)
     (aux-info
@@ -69,8 +69,8 @@
     (position 3076 691))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 2 25)
-    (size 1918 1150))
+    (position 0 0)
+    (size 1920 1151))
 (session-info "toplevel"
     (factory-entry "gimp-rotate-tool-dialog")
     (position 871 727))
